@@ -19,7 +19,7 @@ Este projeto não foi desenvolvido por mim. Ele foi utilizado como base durante 
 ### Clonar o repositório
 
 ```
-git clone https://github.com/gabrielmaues/smartbit-app
+git clone https://github.com/gabrielmaues/smartbit-app.git
 cd smartbit
 ```
 
